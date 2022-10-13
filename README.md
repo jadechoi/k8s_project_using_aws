@@ -1,1 +1,1 @@
-# k8s_project_using_aws
+# Configuring AWS Infrastructure with Terraform & K8S configuration via kubespray using ansible
