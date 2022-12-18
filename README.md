@@ -1,1 +1,2 @@
-# Configuring AWS Infrastructure with Terraform & K8S configuration via kubespray using ansible
+# Terraform & Ansible을 활용한 Kubernetes Cluster 구성 자동화
+
