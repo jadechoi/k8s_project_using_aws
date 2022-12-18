@@ -4,7 +4,7 @@ Terraform 과 Ansible을 통해 public cloud 환경의 Infra를 각각 구성하
 
 
 ## 기술 스택
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white"> 
 - BE : Django
 - FE : HTML, CSS, JS
 - Monitoring : Prometheus, Grafana <br/>
