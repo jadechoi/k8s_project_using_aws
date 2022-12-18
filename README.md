@@ -9,31 +9,10 @@ Terraform 과 Ansible을 통해 public cloud 환경의 Infra를 구성하고 구
 ## 시스템 아키텍처
 ![image](https://user-images.githubusercontent.com/96777428/208297063-b6ec8462-6cc4-4b1d-91f3-484c7a668117.png)
 
-- 스택
-  * 스택 생성
-  + 스택 리스트 조회
-  + 스택 상세정보 조회
-  + 스택 삭제
-- 서비스
-  * 서비스 리스트 조회
-  + 서비스 상세정보 조회
-  + 이미지 업데이트
-  + 스케일 조정
-  + 서비스 롤백
-- 네트워크
-  * 네트워크 생성
-  + 네트워크 리스트 조회
-  + 네트워크 상세정보 조회
-  + 네트워크 삭제
-- 볼륨
-  * 볼륨 생성
-  + 볼륨 리스트 조회
-  + 볼륨 상세정보 조회
-  + 볼륨 삭제
-- 로그인
-  * 도커허브 로그인
-- 모니터링
-  * 스웜클러스터 노드의 CPU, 메모리 사용량 확인<br/>
+## 인프라 구축
+- Terraform을 활용하여 AWS 클라우드 인프라 구축 (VPC,LB,EC2)
+- Kubernetes Clusterf를 Private Subnet에 구성
+- Kubespray를 통해 Kubernetes Cluster 구성 (Ansible 활용)
+
+
   
-## 시스템 아키텍처
-<img width="985" alt="image" src="https://user-images.githubusercontent.com/96777428/208294660-c069c01e-543c-4338-8ec1-6aaf8287fc2c.png">
