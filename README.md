@@ -11,7 +11,7 @@ Terraform 과 Ansible을 통해 public cloud 환경의 Infra를 구성하고 구
 
 ## 인프라 구축
 - Terraform을 활용하여 AWS 클라우드 인프라 구축 (VPC,LB,EC2)
-- Kubernetes Clusterf를 Private Subnet에 구성
+- Kubernetes Cluster를 Private Subnet에 구성
 - Kubespray를 통해 Kubernetes Cluster 구성 (Ansible 활용)
 
 
